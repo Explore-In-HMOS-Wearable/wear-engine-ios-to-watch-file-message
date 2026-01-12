@@ -11,6 +11,7 @@ Demonstrates message transmission, app reachability checks (ping, installation c
   <img src="./screenshots/preview_02.png" width="24%">
   <img src="./screenshots/preview_03.png" width="24%">
   <img src="./screenshots/preview_04.png" width="24%">
+
 </div>
 
 # Use Cases
